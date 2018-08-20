@@ -32,6 +32,7 @@ body {
   font-size: 18px;
   -moz-osx-font-smoothing: grayscale;
    -webkit-font-smoothing: antialiased;
+   font-family: 'Rubik', sans-serif;
 }
 
 a {
@@ -92,7 +93,10 @@ a:hover {
   margin: 0 auto 20px;
   max-width: 450px;
   white-space: pre-wrap;
-  font-weight: 500;
+}
+
+h5 {
+  font-size: 20px;
 }
 
 //
